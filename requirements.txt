@@ -9,3 +9,4 @@ jupyter-dash
 xlrd
 openpyxl
 unidecode
+pyspellchecker
