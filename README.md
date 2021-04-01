@@ -20,7 +20,7 @@ To run scripts inside the container, we need to open an interactive session.
 3. Then you can use bash command as usually
 
 ##### Jupyter notebook 
-By default the image container starts jupyter notebook service (in background). You may see the jupyter logs by removing `-d` argument in *step 2* on Building images and container Section. 
+By default the image container starts jupyter notebook service (in background). You may see the jupyter logs by removing `-d` argument in *step 2 on Building images and container Section*. 
 
 1. If our container is running in *detached mode* just use: `docker logs nemotion -f` to display logs. 
 2. Then, copy the notebook link which includes the security token and and paste it on your browser.
