@@ -2,3 +2,5 @@
 *.vec
 .ipynb_checkpoints/
 .Trash-0
+out/
+core/__pycache__/
