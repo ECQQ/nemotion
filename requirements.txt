@@ -1,5 +1,6 @@
 tensorflow
 pandas
+matplotlib
 joblib
 nltk
 gensim==3.8.3
@@ -10,3 +11,5 @@ xlrd
 openpyxl
 unidecode
 pyspellchecker
+pyldavis
+wordcloud
